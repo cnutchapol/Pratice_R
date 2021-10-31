@@ -33,7 +33,7 @@ class (my_name) ; class(my_age)
 ## 4. DataFrame
 
 ## create vector
-friends <- c("Nut","Top","wan","Fiat","Best")
+friends <- c("Nut","Khim","Jijie","Fiat","Aom")
 ages <- c(21,20,21,24,24)
 gender <- c("M","M","F","F","F")
 
@@ -44,8 +44,8 @@ gender
 m1 <- matrix(1:20,ncol = 5,byrow = T)
 
 ##list 
-my_list <- list(artist = "Lauv & Lany",
-                song = "Mean It",
+my_list <- list(artist = "Adele",
+                song = "Easy on me",
                 year = 2020,
                 like = 600000,
                 is_male = TRUE,
@@ -55,7 +55,7 @@ my_list$artist
 
 ## Dataframe 
 
-friends <- c("Nut","Top","wan","Fiat","Best")
+friends <- c("Nut","Khim","Jijie","Fiat","Aom")
 ages <- c(21,20,21,24,24)
 gender <- c("M","M","F","F","F")
 length(friends)
